@@ -1,5 +1,5 @@
 # TEALS (level 1 heading)
- 
+  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/diamondautry/teals/HEAD)
  *This is text under level 1* This is for the introduction to software technologies class at [Towers Highschool.](https://www.towershs.dekalb.k12.ga.us)
  [![This is a image of Towers Highschool Logo](https://towershs.dekalb.k12.ga.us/sysimages/logo.png)
 
